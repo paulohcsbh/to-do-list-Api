@@ -1,4 +1,4 @@
-<h1 align="center">API To-do list Typescript(POC)</h1>
+<h1 align="center">API To-do list Typescript</h1>
 <img src="https://img.shields.io/bower/l/MI" />
 <img src="https://img.shields.io/github/release-date/microsoft/vscode" />
 <img  width="100%" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"/>

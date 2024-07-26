@@ -15,7 +15,7 @@ API de uma To-do list que estabelce relação com um banco SQL. A API permite cr
 </ul>
 
 <h2>🛠️ Abrir e rodar o projeto </h2>
-<p>1. Clonar este repositório repositório;</p>
+<p>1. Clonar este repositório;</p>
 <p>2. Instalar todas  as dependências:</p>
 
 ```bash

@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/github/release-date/microsoft/vscode" />
 <img  width="100%" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"/>
 <h2 >Descrição do projeto</h2>
-Projeto desenvolvido com a tecnoligia Typescript.
+Projeto desenvolvido com a tecnologia Typescript.
 API de uma To-do list que estabelce relação com um banco SQL. A API permite criar, ler, editar, buscar e deletar, além de atribuir se uma tarefa está concluída ou não.
 
 <h2>🔨Funcionalidades </h2>
